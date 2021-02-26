@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  <img src="Landscape.png" width="350" title="hover text">
-</p>
+![alt text](Landscape.jpg)
 Welcome to my GitHub. My name is David,  I'm currently working at [Iliad/ Free](https://www.iliad.fr/en/) as a Data scientist/ Data engineer.
 <!--
 **Daviddlhy/Daviddlhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
