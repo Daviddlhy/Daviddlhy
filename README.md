@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Photo](./Landscape.jpg)
+![Photo](Landscape.jpeg)
 
 Welcome to my GitHub. My name is David,  I'm currently working at [Iliad/ Free](https://www.iliad.fr/en/) as a Data scientist/ Data engineer.
 <!--
