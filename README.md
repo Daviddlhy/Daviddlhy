@@ -6,8 +6,9 @@
 -->
 # Hi there 👋
 
-Welcome to my GitHub. My name is David,  I'm a Data scientist/ Data engineer currently working at [Iliad/ Free](https://www.iliad.fr/en).
+Welcome to my GitHub. My name is David,  I'm a Data scientist currently working at [Iliad/ Free](https://www.iliad.fr/en).
 I daily use R. 
+
 
 <!--
 **Daviddlhy/Daviddlhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
