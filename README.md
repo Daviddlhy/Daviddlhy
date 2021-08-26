@@ -9,7 +9,7 @@
 Welcome to my GitHub. My name is David,  I'm a Data scientist currently working at [Iliad/ Free](https://www.iliad.fr/en).
 I daily use R. 
 <h3 align="left">Languages and Tool</h3>
-
+<p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="c" width="40" height="40"/> </a>  </p>
 <!--
 **Daviddlhy/Daviddlhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
