@@ -7,7 +7,7 @@
 # Hi there 👋
 
 Welcome to my GitHub. My name is David,  I'm a Data scientist currently working at [Iliad/ Free](https://www.iliad.fr/en).
-I daily use R. And I am learning Python for some projects.
+I daily use R and SQL. And I am learning Python for some projects.
 <h3 align="left">Languages and Tool</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://ggplot2.tidyverse.org/" target="_blank"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="Ggplot2" width="40" height="40"/> </a>
@@ -32,6 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
 -->
-
-
-
