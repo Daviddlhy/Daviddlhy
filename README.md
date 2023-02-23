@@ -10,12 +10,16 @@ Welcome to my GitHub.
  My name is David,  I'm a Data guy loving solve problems about modelisation and data processing.
 I currently working at [EDF](https://www.edf.fr/) as a consultant in the csc datascience.
 I daily use R and SQL.
-- 🌱 I’m currently learning Python, PySpark.
-- 💬 Ask me about, R or SQL. 
 
 ## My hobbies 
 During my free time i love go to swim 🏊‍♂️ or play badminton 🏸, that helps me to stay focus. 
-## Mes réseaux sociaux: 
+
+## What am I learning ? 
+I love extract, transform data from anywhere  so i am currently learning: 
+- Mage a new competitor to Dagster/Airflow. 
+- Kafka for streaming. 
+
+## My social networks: 
 <a href="https://www.linkedin.com/in/d-delhaye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-delhaye" height="30" width="40" /></a>
 
 ## Languages and Tools
