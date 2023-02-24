@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A data analytics enthusiast Welcome to my GitHub.</h3>
-
-![Photo](Landscape.jpeg) 
+<img src="Landscape.jpeg" alt="drawing" width="500"/>
 
 ## Who am i ? 
  My name is David,  I'm a Data guy loving solve problems about modelisation and data processing.
