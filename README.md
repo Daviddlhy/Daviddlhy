@@ -1,11 +1,8 @@
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A data analytics enthusiast Welcome to my GitHub.</h3>
+
 ![Photo](Landscape.jpeg) 
-<!--
-<p align="center">
-  <img src="Landscape.jpeg" width="600" title="hover text">
-</p>
--->
-# Hi there 👋
-Welcome to my GitHub.
+
 ## Who am i ? 
  My name is David,  I'm a Data guy loving solve problems about modelisation and data processing.
 I currently working at [EDF](https://www.edf.fr/) as a consultant in the csc datascience.
