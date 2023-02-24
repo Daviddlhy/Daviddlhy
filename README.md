@@ -3,8 +3,8 @@
 <img src="Landscape.jpeg" alt="drawing" width="500"/>
 
 ## Who am i ? 
- My name is David,  I'm a Data guy loving solve problems about modelisation and data processing.
-I currently working at [EDF](https://www.edf.fr/) as a consultant in the csc datascience.
+ My name is David,  I'm a Data guy loving to solve problems about modelisation and data processing.
+I am currently working at [EDF](https://www.edf.fr/) as a consultant in the csc datascience.
 I daily use R and SQL.
 
 ## My hobbies 
