@@ -4,16 +4,17 @@
 
 ## Who am i ? 
  My name is David,  I'm a Data guy loving to solve problems about modelisation and data processing.
-I am currently working at [Franprix](https://www.welcometothejungle.com/fr/companies/franprix) as a Senior Analytic Engineer.
-I daily use Python, Snowflake and Microstrategy.
+I am currently working at [Franprix](https://www.welcometothejungle.com/fr/companies/franprix) as a Senior Analytic Engineer/ DataOps.
+I daily use Python, Snowflake and AzureDevops.
 
 ## My hobbies 
-During my free time i love go to swim 🏊‍♂️ or play badminton 🏸, that helps me to stay focus. 
+In my free time, I like playing badminton, playing video games, and cooking.
+
 
 ## What am I learning ? 
 I love extract, transform data from anywhere  so i am currently learning: 
-- Mage a new competitor to Dagster/Airflow. 
-- Kafka for streaming.
+- Microsoft Azure
+- Kubernetes
 
 ## My social networks: 
 <a href="https://www.linkedin.com/in/d-delhaye/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d-delhaye" height="30" width="40" /></a>
